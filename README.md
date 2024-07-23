@@ -8,3 +8,6 @@ Docker Compose é uma ferramenta que facilita a definição e o gerenciamento de
 
 ### 01. Limpando a maquina local
 
+<img src="https://github.com/JosiTubaroski/Docker_Docker_Compose/blob/main/img/02_Limpeza_Geral.png">
+
+
