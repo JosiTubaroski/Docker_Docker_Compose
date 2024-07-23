@@ -16,6 +16,10 @@ Docker Compose é uma ferramenta que facilita a definição e o gerenciamento de
 
 <img src="https://github.com/JosiTubaroski/Docker_Docker_Compose/blob/main/img/03_Compose_Back_Front.png">
 
+<img src="https://github.com/JosiTubaroski/Docker_Docker_Compose/blob/main/img/04_Terceiro_Conteiner.png">
+
+
+
 
 
 
