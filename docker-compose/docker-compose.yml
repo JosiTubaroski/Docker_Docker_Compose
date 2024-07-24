@@ -1,0 +1,28 @@
+version: "3.8" # 01. Incluindo a versão do docker-compose
+
+
+services: # 02. Incluindo serviços
+  frontend: # 02.01 Frontend é o meu primeiro serviço, é importante que a identação esteja correta.
+    build: ./frontend # 02.01.01 - Construa a imagem de acordo com o diretorio de frontend
+    ports:
+      - 3000:3000 # 02.01.02 - Definindo as portas do frontend
+
+
+  Backend: # 02.02 Segundo serviço.
+    build: ./backend # 02.02.01 - Construa a imagem de acordo com o diretorio de backend
+    ports:
+      - 3001:3001 # 02.02.02 - Definindo as portas do Backend
+    environment:
+      DB_URL: mongodb://db/vidly
+    comand: ./docker-entrypoint.sh     
+
+    
+  db: # 02.03 Terceiro serviço.
+    image: mongo:4.0-xenial # 02.03.01 - Construindo o banco de dados de acordo com a imagem do Mongo
+    ports:
+      - 27017:27017 # 02.03.02 - Definindo as portas do MongoDB
+    volumes:
+      - vidly:/data/db  # # 02.03.03 - Associado o volume da Database ao vidly
+
+volumes: # 03. Definição de Volumes
+  vidly: # 03.01 - Volume chamado vidly
