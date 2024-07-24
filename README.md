@@ -10,9 +10,9 @@ Docker Compose é uma ferramenta que facilita a definição e o gerenciamento de
 
 <img src="https://github.com/JosiTubaroski/Docker_Docker_Compose/blob/main/img/02_Limpeza_Geral.png">
 
-### 02. Download projeto, onde vamos criar um conteiner para backend, um segundo conteiner para frontend e um terceiro conteiner para Banco de Dados.
+### 02. Download projeto Netflix
 
-- O docker compose é um arquivo que contem as informações de todos os conteiners que vão subir.
+- O docker compose é um arquivo que contem as informações de todos os conteiners que vão subir, onde vamos criar um conteiner para backend, um segundo conteiner para frontend e um terceiro conteiner para Banco de Dados.
 
 <img src="https://github.com/JosiTubaroski/Docker_Docker_Compose/blob/main/img/03_Compose_Back_Front.png">
 
@@ -24,7 +24,7 @@ Docker Compose é uma ferramenta que facilita a definição e o gerenciamento de
 
 ### 03. Criando um docker compose file
 
-03.01 - Renomear o docker-compose para teste do projeto Titanic
+03.01 - Renomear o docker-compose para teste do projeto Netflix
 
 <img src="https://github.com/JosiTubaroski/Docker_Docker_Compose/blob/main/img/06_Renomear_Docker_Compose.png">
 
