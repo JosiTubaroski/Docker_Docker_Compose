@@ -28,6 +28,16 @@ Docker Compose é uma ferramenta que facilita a definição e o gerenciamento de
 
 <img src="https://github.com/JosiTubaroski/Docker_Docker_Compose/blob/main/img/06_Renomear_Docker_Compose.png">
 
+- O Docker só realiza a leitura de docker-compose mesmo quando a extensão é .yaml
+
+03.02 - Criando o arquivo docker-compose.yml, para fazermos a construção do 0, entendendo o passo a passo.
+
+<img src="https://github.com/JosiTubaroski/Docker_Docker_Compose/blob/main/img/07_Docker_Compose_yml.png">
+
+
+
+
+
 
 
 
