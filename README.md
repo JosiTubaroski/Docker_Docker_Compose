@@ -34,6 +34,17 @@ Docker Compose é uma ferramenta que facilita a definição e o gerenciamento de
 
 <img src="https://github.com/JosiTubaroski/Docker_Docker_Compose/blob/main/img/07_Docker_Compose_yml.png">
 
+03.03 - Primeiro passo incluir a versão do docker compose file, para verificar a mais recente acessar a documentação:
+
+https://docs.docker.com/compose/compose-file/
+
+- Passo a passo do Docker-Compose
+
+<img src="https://github.com/JosiTubaroski/Docker_Docker_Compose/blob/main/img/08_Criando_Docker_Compose.png">
+
+
+
+
 
 
 
