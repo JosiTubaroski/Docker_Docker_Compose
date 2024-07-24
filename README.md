@@ -44,6 +44,20 @@ https://docs.docker.com/compose/compose-file/
 
 https://github.com/JosiTubaroski/Docker_Docker_Compose/blob/main/docker-compose/docker-compose.yml
 
+### 4 - Rodando e parando o docker compose
+
+4.1 - Subindo o conteiner
+
+docker-compose up -d
+
+4.2 - Parando o conteiner
+
+docker-compose down
+
+
+
+
+
 
 
 
