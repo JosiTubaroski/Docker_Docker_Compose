@@ -42,6 +42,8 @@ https://docs.docker.com/compose/compose-file/
 
 <img src="https://github.com/JosiTubaroski/Docker_Docker_Compose/blob/main/img/08_Criando_Docker_Compose.png">
 
+https://github.com/JosiTubaroski/Docker_Docker_Compose/blob/main/docker-compose/docker-compose.yml
+
 
 
 
