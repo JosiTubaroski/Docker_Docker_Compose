@@ -18,7 +18,7 @@ Docker Compose é uma ferramenta que facilita a definição e o gerenciamento de
 
 <img src="https://github.com/JosiTubaroski/Docker_Docker_Compose/blob/main/img/04_Terceiro_Conteiner.png">
 
-### 03. Rodando o projeto Netflix, acessar o diretorio do projeto netflix pelo terminal, e colocar o comando docker-compose up
+02.01 Rodando o projeto Netflix, acessar o diretorio do projeto netflix pelo terminal, e colocar o comando docker-compose up
 
 <img src="https://github.com/JosiTubaroski/Docker_Docker_Compose/blob/main/img/05_Docker_Compose_Up.png">
 
